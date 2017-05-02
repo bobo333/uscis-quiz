@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'uscis_quiz=uscis_quiz.quiz:main'
+            'uscis-quiz=uscis_quiz.quiz:main'
         ]
     }
 )

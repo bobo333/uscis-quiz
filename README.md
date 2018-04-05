@@ -7,7 +7,8 @@ Questions are current as of 2017. [Source](https://www.uscis.gov/citizenship/lea
 ### Installation
 
 1. Clone
-2. `pip3 install .` (requires `setuptools`) or `python3 setup.py install`
+2. `cd uscis-quiz`
+3. `pip3 install .` (requires `setuptools`) or `python3 setup.py install`
 
 ### Usage
 
